@@ -65,17 +65,17 @@ INSERT INTO
 What SQL keyword starts the command to retrieve data from a database table?
 
 ```sql
-/* replace this comment with your answer */
+SELECT
 ```
 
 What SQL command is used to update existing rows in a database table?
 
 ```sql
-/* replace this comment with your answer */
+UPDATE
 ```
 
 What SQL command is used to remove rows from a database table?
 
 ```sql
-/* replace this comment with your answer */
+DELETE
 ```
